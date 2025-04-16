@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "app.codigoesquecido.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "app.codigoesquecido.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-mergeDebugResources-37:\\layout\\activity_qr_scanner.xml",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\activity_qr_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-mergeDebugResources-37:\\layout\\item_code.xml",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\item_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-mergeDebugResources-37:\\layout\\qr_code_reveal.xml",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\qr_code_reveal.xml"
+    }
+]

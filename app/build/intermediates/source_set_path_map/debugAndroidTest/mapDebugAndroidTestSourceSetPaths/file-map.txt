@@ -1,0 +1,6 @@
+app.codigoesquecido.test.app-core-1.5.0-0 C:\Users\Ramones\.gradle\caches\8.11.1\transforms\4086958146d49cd82964b3b28cd6d3b7\transformed\core-1.5.0\res
+app.codigoesquecido.test.app-annotation-experimental-1.3.1-1 C:\Users\Ramones\.gradle\caches\8.11.1\transforms\7a41e5d7317981523f13ce79200f0c2c\transformed\annotation-experimental-1.3.1\res
+app.codigoesquecido.test.app-androidTest-2 C:\Users\Ramones\Documents\Github\codigo-esquecido\app\build\generated\res\resValues\androidTest\debug
+app.codigoesquecido.test.app-mergeDebugAndroidTestResources-3 C:\Users\Ramones\Documents\Github\codigo-esquecido\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+app.codigoesquecido.test.app-mergeDebugAndroidTestResources-4 C:\Users\Ramones\Documents\Github\codigo-esquecido\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+app.codigoesquecido.test.app-debugAndroidTest-5 C:\Users\Ramones\Documents\Github\codigo-esquecido\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

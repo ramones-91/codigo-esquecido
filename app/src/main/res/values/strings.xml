@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O Código Esquecido</string>
+    <string name="scan_qr">Escanear QR Code</string>
+    <string name="how_to_play">Como jogar:</string>
+    <string name="step_1">1. Escaneie os QR codes recebidos em cada prova</string>
+    <string name="step_2">2. Procure pelas provas para desbloquear todas as partes do código</string>
+    <string name="step_3">3. Use a biblioteca no botão de ajuda, para descobrir a criptografia</string>
+    <string name="step_4">4. Insira o código final para revelar a mensagem!</string>
+    <string name="code_to_decipher">Código a decifrar</string>
+    <string name="enter_answer">Digite sua resposta</string>
+    <string name="check_answer">Verificar resposta</string>
+    <string name="success">Sucesso!</string>
+    <string name="code_revealed">Parabéns! Você descobriu o código!</string>
+    <string name="wrong_answer">Resposta incorreta. Tente novamente!</string>
+    <string name="help_message">Dica: Observe atentamente o padrão formado pelos símbolos desbloqueados.</string>
+</resources> 

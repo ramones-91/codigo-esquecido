@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte3.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte1.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte5.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte6.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_qr1.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\qr1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\layout_activity_qr_scanner.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\activity_qr_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte8.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte8.xml"
+    },
+    {
+        "merged": "app.codigoesquecido.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "app.codigoesquecido.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte2.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\layout_qr_code_reveal.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\qr_code_reveal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte4.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\drawable_symbols_parte7.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\drawable\\symbols_parte7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\layout_item_code.xml.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\layout\\item_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-debug-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ramones\\.gradle\\daemon\\8.11.1\\app.codigoesquecido.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
